@@ -12,7 +12,7 @@ h2{
 }
 h3{
   font-size: 25px;
-  margin: 12px 0;
+  margin: 20px 0;
 }
 h4{
   font-size: 20px;
@@ -68,14 +68,13 @@ a{
 }
 
 .location{
-  width: 100%;
-  min-height: 500px;
+  height: 800px;
   background-image: url("resources/img-locations-background.jpg");
   background-size: cover;
 }
 
 .loc_txt{
- padding-top: 5.5%;;
+ padding-top: 3.2%;;
 }
 .locs{
   display: flex;
@@ -88,6 +87,9 @@ a{
   margin: 5px 20px;
   width: 300px;
   line-height:50px;
+}
+.txt_box h4{
+  margin: 20px 0;
 }
 footer{
   width: 100%;
