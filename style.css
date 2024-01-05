@@ -47,7 +47,8 @@ a{
   align-items: center;
 }
 .mission{
-  background-color: black;   
+  background-color: black; 
+  width: 100%;
 }
 
 .img_txt img{
